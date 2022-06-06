@@ -6,7 +6,7 @@ Summary of the projects I have done.
 This is a technical assessment I did for a company.
 I used MySQL to create the tables as per the questions, and came up with solutions to produce the outcomes requested.
 
-# [Starbucks Survey Analysis](https://github.com/michelleng95/R-Starbucks-Survey-Analysis)
+# [R: Starbucks Survey Analysis](https://github.com/michelleng95/R-Starbucks-Survey-Analysis)
 In this project, I am 'hired' by Starbucks to conduct insightful analysis to help senior
 management understand more about how to improve customer engagement and profitability.
 
