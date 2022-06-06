@@ -1,5 +1,5 @@
 # Summary-of-Projects
-Summary of the projects I have done.
+Below is a summary of the projects I have done, and a brief overview of what they are.
 
 
 # [SQL: Technical Assessment 1](https://github.com/michelleng95/SQL-Assessment-1)
