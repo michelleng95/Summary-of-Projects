@@ -6,6 +6,9 @@ Below is a summary of the projects I have done, and a brief overview of what the
 This is a technical assessment I did for a company.
 I used MySQL to create the tables as per the questions, and came up with solutions to produce the outcomes requested.
 
+# [Tableau Visualizations](https://github.com/michelleng95/Tableau-Portfolio)
+Please visit my Tableau Public (https://public.tableau.com/app/profile/michelle6685) page to look at a few of my projects.
+
 # [R: Starbucks Survey Analysis](https://github.com/michelleng95/R-Starbucks-Survey-Analysis)
 ## Part 1: Data Cleaning
 The tab-delimited text file “starbucks final data.txt” contains survey data on a random sample of 10,000 Starbucks Coffee customers. The survey was done in Orange County, CA,
